@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset-="UTF-8"/>
+        <meta name="viewport" content="width=device-width, intial-scale=1.0" / >
+        <meta name="author" content="Abdul">
+        <meta name="description" content="=This page contains all the things iam learing how to creat a html"/>
+        <link rel="icon" href="Vignosoft_logo.png" type="image/x-icon">
+        <title>Python Training</title>
+        <link rel="styleheet" href="main.css" type="text/css">
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        <p>Let me tell you how iam preparing my self   I learn more about dev.
+                                                       I plan out my Schedule.
+                                                       I use resources from MDN.<abbr title="Mozilla Developer Network"></abbr>
+
+        <hr>
+
+
+        <h2> I'm Also Planning for Vacation</h2>
+        <p>This is my frist web page.</p>
+        <p>I live in Hyderabad so I want to visit a Khajaguda Hills....</p>
+        <addreess>
+            What is the address line in India?
+            <br>LINE 1 : house/flat no, building name, street name/number. LINE 2 : Block no. , Area Name . Line 4 : country, ZIP code .
+        </addreess>
+        
+        <h3>Places to Avoid</h3>
+        <dl></dl> Heavy Traffic In Madhapur and Kukatpally</p>
+        <p><strong> Due to Police Security issues at</strong> Charminar in Night</p>
+        &lt;&lt;&lt;&copy;Vignosoft&lt;&lt;&lt;
+    </body>
+</html>
